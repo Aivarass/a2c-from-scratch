@@ -1,6 +1,6 @@
-# Shallow Actor-Critic Neural Network
+# A2C From Scratch
 
-A minimal, dependency-free implementation of a one-step Actor-Critic neural network in pure Java. Single hidden layer with tanh activation, softmax policy head, and linear value head.
+Minimal Actor-Critic neural network in pure Java. Single hidden layer with tanh activation, softmax policy head, and linear value head. No dependencies.
 
 ## Architecture
 
